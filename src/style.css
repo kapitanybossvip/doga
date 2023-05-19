@@ -1,0 +1,26 @@
+/* File: index.html
+Author: Vitovszki Tamás
+Copyright: 2023, Vitovszki Tamás
+Group: Szoft 1/2 N
+Date: 2023-05-19
+Github: https://github.com/Tomasman05/
+Licenc: GNU GPL */
+body{
+    background-color:seagreen !important;
+}
+h1{
+    background-color:darkolivegreen;
+}
+footer{
+    background-color: darkolivegreen;
+}
+h3{
+    background-color: rgba(85, 107, 47, 0.664);
+}
+span{
+    font-weight: lighter;
+    font-size: medium;
+}
+.text-end{
+    font-weight: bold;
+}
