@@ -1,9 +1,9 @@
 // File: index.html
-// Author: Vitovszki Tamás
-// Copyright: 2023, Vitovszki Tamás
+// Author: Kapitány Dániel Márk
+// Copyright: 2023, Kapitány Dániel Márk
 // Group: Szoft 1/2 N
 // Date: 2023-05-18
-// Github: https://github.com/Tomasman05/
+// Github: https://github.com/kapitanybossvip/
 // Licenc: GNU GPL
 const doc={
     tbody: document.querySelector("#tbody")

@@ -1,22 +1,22 @@
 /* File: index.html
-Author: Vitovszki Tamás
-Copyright: 2023, Vitovszki Tamás
+Author: Kapitány Dániel Márk
+Copyright: 2023, Kapitány Dániel Márk
 Group: Szoft 1/2 N
 Date: 2023-05-19
-Github: https://github.com/Tomasman05/
+Github: https://github.com/kapitanybossvip/
 Licenc: GNU GPL */
 body{
-    background-color:rgba(0, 0, 0, 0.778) !important;
-    color: lightgrey !important;
+    background-color:rgba(187, 102, 102, 0.778) !important;
+    color: rgb(226, 11, 11) !important;
 }
 h1{
-    background-color:rgb(93, 93, 93);
+    background-color:rgb(177, 99, 99);
 }
 footer{
-    background-color: rgb(93, 93, 93);
+    background-color: rgb(219, 164, 164);
 }
 h3{
-    background-color: rgba(72, 72, 72, 0.487);
+    background-color: rgba(255, 155, 155, 0.487);
 }
 span{
     font-weight: lighter;
@@ -24,7 +24,4 @@ span{
 }
 .text-end{
     font-weight: bold;
-}
-img{
-    height: 300px;
 }
